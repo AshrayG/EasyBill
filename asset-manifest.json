@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/EasyBill/static/css/main.7e5ef4b4.chunk.css",
+    "main.js": "/EasyBill/static/js/main.1deb4d9f.chunk.js",
+    "main.js.map": "/EasyBill/static/js/main.1deb4d9f.chunk.js.map",
+    "runtime-main.js": "/EasyBill/static/js/runtime-main.f2a433cb.js",
+    "runtime-main.js.map": "/EasyBill/static/js/runtime-main.f2a433cb.js.map",
+    "static/js/2.bbe2dcf2.chunk.js": "/EasyBill/static/js/2.bbe2dcf2.chunk.js",
+    "static/js/2.bbe2dcf2.chunk.js.map": "/EasyBill/static/js/2.bbe2dcf2.chunk.js.map",
+    "index.html": "/EasyBill/index.html",
+    "static/css/main.7e5ef4b4.chunk.css.map": "/EasyBill/static/css/main.7e5ef4b4.chunk.css.map",
+    "static/js/2.bbe2dcf2.chunk.js.LICENSE.txt": "/EasyBill/static/js/2.bbe2dcf2.chunk.js.LICENSE.txt",
+    "static/media/behance.a8d8d408.png": "/EasyBill/static/media/behance.a8d8d408.png",
+    "static/media/dribble.fe21353d.png": "/EasyBill/static/media/dribble.fe21353d.png",
+    "static/media/emoji.b62a950b.png": "/EasyBill/static/media/emoji.b62a950b.png",
+    "static/media/insta.6c303b5c.png": "/EasyBill/static/media/insta.6c303b5c.png",
+    "static/media/roadmap.9814b6c8.png": "/EasyBill/static/media/roadmap.9814b6c8.png",
+    "static/media/sad-face.1e97d465.gif": "/EasyBill/static/media/sad-face.1e97d465.gif",
+    "static/media/twitter.0ff04aca.png": "/EasyBill/static/media/twitter.0ff04aca.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f2a433cb.js",
+    "static/js/2.bbe2dcf2.chunk.js",
+    "static/css/main.7e5ef4b4.chunk.css",
+    "static/js/main.1deb4d9f.chunk.js"
+  ]
+}

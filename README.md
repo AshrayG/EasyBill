@@ -1,3 +1,20 @@
+Developed a web application which enables the users to create, mint and manage bills and warranty cards as NFTs seamlessly on the Tezos Blockchain.
+Worked as a frontend developer using React.js and Taquito library to connect the smart contracts with the front-end.
+
+Easy bill have the following features:
+Mint NFT
+Batch Mint NFTs
+Burn NFT
+Mint NFT to another user
+Mint NFT to same wallet
+View holding NFTs
+
+Src code: https://github.com/AshrayG/EasyBill
+Link: https://ashrayg.github.io/EasyBill/
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
